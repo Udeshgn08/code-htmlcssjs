@@ -42,6 +42,9 @@ Start a repository locally
    ...origin project was cloned originally from 
   git remote -v 
   git push -u origin master 
+  .......branching 
+  git branch 
+  git checkout -b branch name 
   
 
 
