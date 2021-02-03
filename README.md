@@ -1,5 +1,6 @@
 # Terminal 
 Linux 
+Some common symbols in Unix/Unix-like systems: ~ / . .. && # | * 
   mkdir dirname 
   cd /path/..../
   rm file1 file2 
