@@ -2,6 +2,12 @@
 Linux 
   mkdir dirname 
   cd /path/..../
+  rm file1 file2 
+  mv file1 file2 /source directory/
+  mv old name new name 
+  zip folder.zip file1.doc file2.doc
+  unzip -v folder.zip 
+  zip --help 
   ls -a 
   ls | grep keyfilename 
   cat keyfilename.pub 
