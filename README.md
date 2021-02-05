@@ -1,4 +1,7 @@
 # Terminal 
+Iterative and recursive 
+Iterative algorithms will use control-flow statements such as 
+for, while, and do. Recursive, a module call itself until the condition satisfies. 
 Linux 
 Some common symbols in Unix/Unix-like systems: ~ / . .. && # | * 
   mkdir dirname 
@@ -9,6 +12,9 @@ Some common symbols in Unix/Unix-like systems: ~ / . .. && # | *
   zip folder.zip file1.doc file2.doc
   unzip -v folder.zip 
   zip --help 
+  tar -xjvf filename.tar.bz2 
+  .....(c)ompress or (x)tract,filter,list,specify -> -xjvf 
+  ......tool name tar and zip type bz2 
   ls -a 
   ls | grep keyfilename 
   cat keyfilename.pub 
